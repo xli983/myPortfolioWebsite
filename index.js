@@ -53,6 +53,7 @@ function animate() {
     c.translate(-camera.position.x, 0)
     effect.wrapText('Xiangyi "Jessica" Li', '70px Courier', 110, 120)
     effect.wrapText('Interactive Resume', '50px Courier', 250, 200)
+    effect.wrapText('Use WASD or arrow key to move', '20px Courier', 350, 250)
     loadZone1()
     background2.update()
     player.update()

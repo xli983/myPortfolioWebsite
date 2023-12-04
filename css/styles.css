@@ -148,7 +148,7 @@ header {
 }
 
 .triangle-right-bottom {
-  background-image: url('art.jpg');
+  background-image: url('https://i.ibb.co/H4dsRWB/art.jpg');
   background-size: cover;
   background-position: center;
   clip-path: polygon(100% 0, 0 100%, 100% 100%);
@@ -185,7 +185,6 @@ header {
   padding: 20px 20px 20px 40px;
   text-align: left;
 }
-
 
 /* About Section */
 
